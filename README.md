@@ -4,5 +4,6 @@
 
 - 02 NYC Taxi full dataset ~40 GB [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DuckDB/blob/main/02_DuckDB_parquet.ipynb)
 
+- 03 DuckDB to BigQuery [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DuckDB/blob/main/03_DuckDB_BiqgQuery.ipynb)
 
 ['Excel wirh DuckDB'](https://github.com/RusselWebber/xlDuckDb)
