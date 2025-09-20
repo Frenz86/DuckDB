@@ -16,3 +16,5 @@
 ['DrawDB'](https://www.drawdb.app)
 
 ['MyDuckServer'](https://github.com/apecloud/myduckserver)
+
+[Light-weight, browser-based ROLAP pivot tables on top of DuckDB-WASM] (https://github.com/rpbouman/huey?tab=readme-ov-file)
